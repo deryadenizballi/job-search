@@ -38,7 +38,11 @@ li:hover::before {
 }
 
 .card {
-  background-color: #000;
+  background-image: url('https://images.pexels.com/photos/14555033/pexels-photo-14555033.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ 
 }
 
 
